@@ -1,0 +1,2 @@
+# MineFindPrivacyPolicy
+privacyPolicy page
